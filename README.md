@@ -1,5 +1,4 @@
 # lucas.h.s.github.io
-site curriculo
 import React, { useState } from 'react';
 import { 
   Mail, 
@@ -218,3 +217,4 @@ const App = () => {
 };
 
 export default App;
+
